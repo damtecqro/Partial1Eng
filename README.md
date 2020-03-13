@@ -60,7 +60,7 @@ Developing format will be open and at least must integrate the following criteri
 * View should be opened from general Pokemon List and it will be using an INTENT that passes url of the pokemon to search
 * Optimization detail it should work for landscape and portrait, it is not allowed to block view to just work 1 orientation
 
-### Each activity is individual, it will not be accepted projects that come from copy of the internet or from other students. Designs must be uniques take time to plan it, better to start creating designs to do a very cool one that is not yours. Cases from this type will en up in FIA.
+### Each activity is individual, it will not be accepted projects that come from copy of the internet or from other students. Designs must be uniques take time to plan it, better to start creating designs instead to do a very cool one that is not yours. Cases from this type will end up in FIA.
 
 ## Delivery Format
 
