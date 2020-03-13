@@ -68,7 +68,7 @@ Repository should be delivered by github classroom platform.
 
 Repository must contain the following:
 
-* Source Code of the ProjectCódigo fuente del proyecto
+* Source Code of the Project
 * .APK File SIGNED to install inside the repository, it can be at the root or inside the default folder that Android Studio generates
 * File in TXT format that includes Name, Student Id, and answer to the following questions: What made it easier for you to implement the view? What made it difficult for you to implement the view?
 
