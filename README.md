@@ -89,4 +89,4 @@ The next rubric will be used to grade partial activity
 
 ## Delivery Date
 
-### 20/03/2020 11:59 a través de GitHub Classroom
+### 23/03/2020 11:59 a través de GitHub Classroom
